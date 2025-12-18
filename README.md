@@ -1,4 +1,4 @@
-## Hi there,i am daihocdo 👋
+## Hi there,i am @daihocdo 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
