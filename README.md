@@ -1,11 +1,11 @@
-# Hi there, I'm @daihoc252! 👋
+# Hi there, I'm daihocdo! 👋
 
-> "Code is poetry." (Hoặc câu châm ngôn bạn thích)
+> "Code is poetry."
 
 Mình là một sinh viên/lập trình viên đam mê công nghệ đến từ Việt Nam 🇻🇳.
 
 ### 🧐 Về bản thân mình
-- 🔭 Hiện tại mình đang làm việc/học tập tại **[Tên trường/Công ty]**.
+- 🔭 Hiện tại mình đang học tập tại Nguyen Tat Thanh University .
 - 🌱 Mình đang tìm hiểu sâu về **[Ngôn ngữ/Công nghệ bạn đang học, vd: Java, Spring Boot]**.
 - 👯 Mình đang tìm kiếm cơ hội cộng tác trong các dự án về **[Lĩnh vực, vd: Web Development, AI]**.
 - 💬 Hỏi mình về: **[Chủ đề bạn giỏi, vd: Java, Game Dev]**.
