@@ -1,4 +1,4 @@
-# Hi there, I'm [Tên của bạn]! 👋
+# Hi there, I'm @daihoc252! 👋
 
 > "Code is poetry." (Hoặc câu châm ngôn bạn thích)
 
