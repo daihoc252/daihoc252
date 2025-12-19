@@ -29,5 +29,5 @@ Here are the technologies I work with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daihoc252&layout=compact&theme=tokyonight)
 
 ### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />]([Link_to_your_Facebook](https://www.facebook.com/dai252))
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/dai252)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](Link_to_your_LinkedIn)
