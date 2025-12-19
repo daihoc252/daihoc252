@@ -1,11 +1,14 @@
-## Hi there,i am daihocdo 👋
-Here are some ideas to get you started:
+### // Thông tin lập trình viên
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Information of Technology (IT) in NTTU
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: dodaihoc252@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```java
+public class Developer {
+    String name = "[Tên của bạn]";
+    String role = "Student / Developer";
+    String location = "Ho Chi Minh City, Vietnam";
+
+    String[] skills = { "Java", "Python", "SQL", "Git" };
+    
+    public void currentGoal() {
+        System.out.println("Đang luyện tập để trở thành Fullstack Developer.");
+    }
+}
